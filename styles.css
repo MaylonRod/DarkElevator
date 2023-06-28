@@ -1,0 +1,61 @@
+body {
+  background-color: #121212 !important;
+}
+
+.curriculumprogressheader {
+color: rgb(197, 197, 197);
+}
+
+.standard-card, a.standard-card {
+  background-color: #1d1d1d !important;
+  border: 1px solid #1d1d1d !important;
+}
+
+.standard-card>.standard-card-heading,a.standard-card>.standard-card-heading, 
+.label, .item, .blocktitle, .item>.is-active, .standard-card p {
+  color: rgb(197, 197, 197) !important;
+}
+
+/* .mdown-container h1, .mdown-container p, .mdown-container h2{
+  color: #fff !important;
+} */
+
+
+.lesson-layout .body-container .mdown-container{
+  color: #fff !important;
+}
+.content-arrow-container, div.content-arrow-container {
+  background-color: #121212 !important;
+}
+#navigation-container{
+  background-color: #1d1d1d ;
+}
+.primary-navigation, .secondary-navigation, .java{
+  background-color: #1d1d1d !important;
+}
+
+.mdown-container, .challenge-block {
+  background-color: #121212 !important;
+}
+
+.lesson-layout .body-container .mdown-container img {
+  filter: invert(1);
+}
+
+.callout {
+  background: #1d1d1d !important;
+}
+
+.hljs {
+  color: white !important;
+}
+
+code {
+  background: #1d1d1d !important;
+  color: #fff !important;
+  border-radius: 0.3em !important;
+}
+
+.block-container {
+  border-bottom: 6px solid #1d1d1d !important;
+}

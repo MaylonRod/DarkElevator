@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+
+  "name": "DarkElevator",
+  "version": "0.2.1",
+  "description": "Dark mode for BootcampOS for Tech Elevator.",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://lms.techelevator.com/*"]
+  }]
+
+}
