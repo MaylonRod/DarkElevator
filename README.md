@@ -2,7 +2,14 @@
 
 This is a dark mode Chrome/Edge extension for Tech Elevator's BootcampOS
 
-### !!!!Quizzes will looked weird and not cool for right now!!!!
+### !!!!Quizzes will look weird and not cool for right now!!!!
+
+## Instructions
+Make sure you have all the files downloaded, extracted, and in a folder.
+1. Open Chrome or Edge and navigate to chrome://extensions, or edge://extensions
+2. Enable developer mode
+3. Click "Load unpacked" and navigate to the folder where you stored the extension.
+4. Hit select folder and you should be good to go!
 
 ## Pics or it didn't happen
 
